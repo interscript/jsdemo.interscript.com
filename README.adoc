@@ -1,4 +1,11 @@
-= Interscript JS demo mini-site
+= ARCHIVED: Interscript JS demo mini-site
+
+WARNING: This mini-site has been integrated into the main
+https://github.com/interscript/interscript.com[interscript.com repository].
+Its contents are accessible via https://www.interscript.com.
+The old site at https://jsdemo.interscript.com has been removed.
+
+WARNING: This repository is now read-only.
 
 == Project setup
 
